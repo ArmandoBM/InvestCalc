@@ -1,4 +1,4 @@
-print("Bem vindo à calculadora financeira")
+print("Bem vindo à calculadora financeira!!!!!")
 
 #Conversor de taxa
 def conversor_de_taxa(taxa_dada, opcao):
@@ -122,4 +122,6 @@ while sair == False:
 
 if selecao == '5':
   sair = True
- 
+
+
+print("Obrigado por usar a calculadora de investimentos!!!")
